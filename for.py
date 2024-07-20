@@ -1,2 +1,2 @@
-print(180)
-print(type(180))
+print(75.5)
+print(type(75.5))
