@@ -1,2 +1,5 @@
-print(type('90j'))
-print(type('saleh'))
+print(3 + 1)
+print(10 - 4)
+print(15 + 5 - 6)
+print(4*2*5)
+print(12/3)
