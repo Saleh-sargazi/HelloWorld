@@ -1,2 +1,2 @@
-print('saleh')
-print(type('i from iran'))
+print(180)
+print(type(180))
